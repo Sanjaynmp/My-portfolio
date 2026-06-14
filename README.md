@@ -51,8 +51,8 @@ Seeking opportunities as a Full Stack Developer where I can utilize my technical
 ## 📬 Connect With Me
 
 * GitHub: https://github.com/Sanjaynmp
-* LinkedIn: Add Your LinkedIn Profile
-* Email: Add Your Email Address
+* LinkedIn: https://www.linkedin.com/in/sanjay-r-921004286/
+* Email: sanjaynmp23@gmail.com
 
 ## ⭐ Support
 
